@@ -1,10 +1,20 @@
 # Ubuntu setup
 
-Window manager: [quicktile](https://github.com/ssokolow/quicktile) ([commands](http://ssokolow.com/quicktile/commands.html))
+## Window manager
+
+[quicktile](https://github.com/ssokolow/quicktile) ([commands](http://ssokolow.com/quicktile/commands.html))
 
 Setup: go to "Startup Applications", add a startup command `quicktile --daemonize`
 
-Visual Studio Code: Change Terminal color settings
+Shortcut | Action 
+---------|----------
+ `Print Screen` | Take a screenshot of the desktop 
+ `Alt`+`Print Screen` | Take a screenshot of a window
+ `Shift`+`Print Screen` | Take a screenshot of an area you select 
+
+ ## Visual Studio Code
+
+ ### Change Terminal color settings
 
 Settings -> Terminal -> Integrated -> Automation Profile: Linux
 
@@ -38,8 +48,22 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
 }
 ```
 
-Visual Studio Code: Extensions
+### Add extensions
 
 - Markdown All in One
 - Markdown Preview Github Styling
 - Markdown Shortcuts
+
+## Ubuntu shortcuts
+
+Shortcut | Action 
+---------|----------
+ `Print Screen` | Take a screenshot of the desktop 
+ `Alt`+`Print Screen` | Take a screenshot of a window
+ `Shift`+`Print Screen` | Take a screenshot of an area you select 
+
+ ![ubuntu-shortcuts.jpg](/ubuntu-shortcuts.jpg)
+
+ ## Vscode shortcuts
+
+![vscode-shortcuts.png](/vscode-shortcuts.png)
