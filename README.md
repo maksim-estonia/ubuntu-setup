@@ -8,9 +8,18 @@ Setup: go to "Startup Applications", add a startup command `quicktile --daemoniz
 
 Shortcut | Action 
 ---------|----------
- `Print Screen` | Take a screenshot of the desktop 
- `Alt`+`Print Screen` | Take a screenshot of a window
- `Shift`+`Print Screen` | Take a screenshot of an area you select 
+ `Ctrl`+`Alt`+`7` | Top-left
+ `Ctrl`+`Alt`+`8` | Top
+ `Ctrl`+`Alt`+`9` | Top-right
+ `Ctrl`+`Alt`+`4` | Left
+ `Ctrl`+`Alt`+`5` | Center
+ `Ctrl`+`Alt`+`6` | Right
+ `Ctrl`+`Alt`+`1` | Bottom-left
+ `Ctrl`+`Alt`+`2` | Bottom
+ `Ctrl`+`Alt`+`3` | Bottom-right
+ `Ctrl`+`Alt`+`0` | Maximize
+
+
 
  ## Visual Studio Code
 
