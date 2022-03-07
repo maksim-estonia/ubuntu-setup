@@ -52,7 +52,8 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
         "terminal.ansiMagenta":"#A36AC7",
         "terminal.ansiRed":"#CC342B",
         "terminal.ansiWhite":"#C5C8C6",
-        "terminal.ansiYellow":"#FBA922"
+        "terminal.ansiYellow":"#FBA922",
+        "terminal.selectionBackground": "#135564"
     }
 }
 ```
@@ -62,6 +63,18 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
 - Markdown All in One
 - Markdown Preview Github Styling
 - Markdown Shortcuts
+
+## Tree tool
+
+sudo apt install tree
+
+## Image annotation tool
+
+```
+sudo snap install ksnip
+```
+
+![ksnip.png](/ksnip.png)
 
 ## Ubuntu shortcuts
 
