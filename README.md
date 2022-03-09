@@ -63,6 +63,8 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
 - Markdown All in One
 - Markdown Preview Github Styling
 - Markdown Shortcuts
+- VS Sequential Number
+- C/C++ Snippets
 
 ## Tree tool
 
@@ -72,6 +74,12 @@ sudo apt install tree
 
 ```
 sudo snap install ksnip
+```
+
+## FFMPEG
+
+```
+sudo apt install ffmpeg
 ```
 
 ![ksnip.png](/ksnip.png)
