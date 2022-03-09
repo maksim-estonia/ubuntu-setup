@@ -76,13 +76,13 @@ sudo apt install tree
 sudo snap install ksnip
 ```
 
-## FFMPEG
+![ksnip.png](/ksnip.png)
+
+## FFMPEG: video handling tool
 
 ```
 sudo apt install ffmpeg
 ```
-
-![ksnip.png](/ksnip.png)
 
 ## Ubuntu shortcuts
 
