@@ -84,6 +84,16 @@ sudo snap install ksnip
 sudo apt install ffmpeg
 ```
 
+## Terminal: auto-completion
+
+[Link](https://unix.stackexchange.com/questions/55203/bash-autocomplete-first-list-files-then-cycle-through-them)
+
+```
+bind "TAB:menu-complete"
+bind "set show-all-if-ambiguous on"
+bind "TAB:complete"; bind "set show-all-if-ambiguous off"
+```
+
 ## Ubuntu shortcuts
 
 Shortcut | Action 
