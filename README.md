@@ -70,13 +70,19 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
 
 sudo apt install tree
 
-## Image annotation tool
+## Ksnip: image annotation tool
 
 ```
 sudo snap install ksnip
 ```
 
 ![ksnip.png](/ksnip.png)
+
+## UMLet: drawing UML diagrams
+
+```
+sudo apt-get install -y umlet
+```
 
 ## FFMPEG: video handling tool
 
