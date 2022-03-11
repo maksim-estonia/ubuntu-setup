@@ -58,6 +58,34 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
 }
 ```
 
+### Keyboard shortcuts
+
+Settings -> Open Keyboard Shortcuts (JSON)
+
+```json
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+meta+right",
+        "command": "cursorEndSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "end",
+        "command": "-cursorEnd",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+meta+left",
+        "command": "cursorLineStartSelect"
+    },
+    {
+        "key": "home",
+        "command": "cursorLineStart"
+    }
+]
+```
+
 ### Add extensions
 
 - Markdown All in One
