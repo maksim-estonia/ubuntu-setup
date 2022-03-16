@@ -128,6 +128,12 @@ bind "set show-all-if-ambiguous on"
 bind "TAB:complete"; bind "set show-all-if-ambiguous off"
 ```
 
+## Terminal: change to homebrew color scheme
+
+[Link color scheme](https://mattgadient.com/how-to-make-the-ubuntu-terminal-more-like-the-mac-os-x-terminal/)
+
+[Link font install](https://linuxconfig.org/how-to-install-fonts-on-ubuntu-20-04-focal-fossa-linux)
+
 ## Ubuntu shortcuts
 
 Shortcut | Action 
