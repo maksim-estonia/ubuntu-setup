@@ -16,6 +16,7 @@
   - [Ubuntu](#ubuntu)
   - [VScode](#vscode)
   - [Window manager](#window-manager)
+- [Terminal commands](#terminal-commands)
 
 ## Tree tool
 
@@ -184,3 +185,7 @@ Shortcut | Action
  `Ctrl`+`Alt`+`2` | Bottom
  `Ctrl`+`Alt`+`3` | Bottom-right
  `Ctrl`+`Alt`+`0` | Maximize
+
+# Terminal commands
+
+![linux-cheat-sheet.png](/linux-cheat-sheet.png)
