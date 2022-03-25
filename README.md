@@ -168,6 +168,7 @@ Settings -> Open Keyboard Shortcuts (JSON)
 - Markdown Shortcuts
 - VS Sequential Number
 - C/C++ Snippets
+- Bazel
 
 # Shortcuts
 
