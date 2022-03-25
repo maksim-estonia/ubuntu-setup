@@ -9,6 +9,7 @@
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
+    - [add open script](#add-open-script)
   - [Visual Studio Code](#visual-studio-code)
     - [Change Terminal color settings](#change-terminal-color-settings)
     - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -80,6 +81,10 @@ Color codes:
 |---|---|---|---|---|---|---|---|
 
 (top and bottom row = same)
+
+### add open script
+
+Open current directory in terminal by typing `open .`
 
 
 ## Visual Studio Code
