@@ -5,6 +5,7 @@
   - [Ksnip: image annotation tool](#ksnip-image-annotation-tool)
   - [UMLet: drawing UML diagrams](#umlet-drawing-uml-diagrams)
   - [FFMPEG: video handling tool](#ffmpeg-video-handling-tool)
+  - [Crackling sound fix](#crackling-sound-fix)
   - [Recommended extensions](#recommended-extensions)
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
@@ -44,6 +45,10 @@ sudo apt-get install -y umlet
 ```
 sudo apt install ffmpeg
 ```
+
+## Crackling sound fix
+
+[Link](https://askubuntu.com/questions/1110422/crackling-sound-when-playing-youtube-ubuntu-18-04-1-running-on-virtualbox-6-0)
 
 ## Recommended extensions
 
