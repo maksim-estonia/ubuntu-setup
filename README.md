@@ -5,6 +5,7 @@
   - [Ksnip: image annotation tool](#ksnip-image-annotation-tool)
   - [UMLet: drawing UML diagrams](#umlet-drawing-uml-diagrams)
   - [FFMPEG: video handling tool](#ffmpeg-video-handling-tool)
+  - [Recommended extensions](#recommended-extensions)
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
@@ -17,6 +18,7 @@
   - [VScode](#vscode)
   - [Window manager](#window-manager)
 - [Terminal commands](#terminal-commands)
+- [Unix filesystem](#unix-filesystem)
 
 ## Tree tool
 
@@ -41,6 +43,12 @@ sudo apt-get install -y umlet
 ```
 sudo apt install ffmpeg
 ```
+
+## Recommended extensions
+
+[Link](https://itsfoss.com/best-gnome-extensions/)
+
+
 
 ## Terminal
 
@@ -189,3 +197,7 @@ Shortcut | Action
 # Terminal commands
 
 ![linux-cheat-sheet.png](/linux-cheat-sheet.png)
+
+# Unix filesystem
+
+![standard-unix-filesystem-hierarchy.png](/standard-unix-filesystem-hierarchy.png)
