@@ -53,7 +53,13 @@ sudo apt install ffmpeg
 
 ## Recommended extensions
 
+[Setup & Install](https://linuxconfig.org/how-to-install-gnome-shell-extensions-on-ubuntu-20-04-focal-fossa-linux-desktop)
+
 [Link](https://itsfoss.com/best-gnome-extensions/)
+
+Installed:
+
+- [Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/#)
 
 ## Extending disk space
 
