@@ -93,7 +93,7 @@ Color codes:
 - Default color (Background): #000000
 - Highlight color (Background): #0900E9
 
-| #000000  | #C33720  | #34BC26 | #AFAD24  | #5061F8 | #D43BD3 | #7458DB | #CCCCCC |
+| #000000  | #C33720  | #34BC26 | #AFAD24  | #5061F8 | #D43BD3 | #915DF6 | #CCCCCC |
 |---|---|---|---|---|---|---|---|
 
 (top and bottom row = same)
