@@ -133,7 +133,9 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
     },
     "testMate.cpp.log.userId": "2b6ec97f4dff59272c92ff1211b8d2f1b4c10127",
     "testMate.cpp.log.logSentry": "enable",
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true
 }
 
 ```
