@@ -7,6 +7,7 @@
   - [FFMPEG: video handling tool](#ffmpeg-video-handling-tool)
   - [Crackling sound fix](#crackling-sound-fix)
   - [Recommended extensions](#recommended-extensions)
+  - [Extending disk space](#extending-disk-space)
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
@@ -54,7 +55,11 @@ sudo apt install ffmpeg
 
 [Link](https://itsfoss.com/best-gnome-extensions/)
 
+## Extending disk space
 
+[Link 1](https://linuxhint.com/increase-virtualbox-disk-size/)
+
+[Link 2](https://gparted.org/display-doc.php%3Fname%3Dmoving-space-between-partitions)
 
 ## Terminal
 
