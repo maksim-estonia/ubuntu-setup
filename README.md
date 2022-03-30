@@ -59,7 +59,7 @@ sudo apt install ffmpeg
 
 Installed:
 
-- [Frippery Move Clock](https://extensions.gnome.org/extension/2/move-clock/#)
+- [Hide Activities Button](https://extensions.gnome.org/extension/744/hide-activities-button/)
 
 ## Extending disk space
 
@@ -101,6 +101,12 @@ Color codes:
 ### add open script
 
 Open current directory in terminal by typing `open .`
+
+`gedit ~/.bashrc`
+
+Add the following line:
+
+`alias open='xdg-open'`
 
 
 ## Visual Studio Code
