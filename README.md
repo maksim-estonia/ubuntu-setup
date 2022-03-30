@@ -130,7 +130,7 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
         "terminal.ansiBrightWhite":"#FFFFFF",
         "terminal.ansiBrightYellow":"#FBA922",
         "terminal.ansiCyan":"#3971ED",
-        "terminal.ansiGreen":"#198844",
+        "terminal.ansiGreen":"#1D1F21",
         "terminal.ansiMagenta":"#A36AC7",
         "terminal.ansiRed":"#CC342B",
         "terminal.ansiWhite":"#C5C8C6",
@@ -143,7 +143,6 @@ Settings -> Terminal -> Integrated -> Automation Profile: Linux
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true
 }
-
 ```
 
 ### Keyboard shortcuts
