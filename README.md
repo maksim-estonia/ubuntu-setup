@@ -8,6 +8,7 @@
   - [Crackling sound fix](#crackling-sound-fix)
   - [Recommended extensions](#recommended-extensions)
   - [Extending disk space](#extending-disk-space)
+  - [Click to minimize](#click-to-minimize)
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
@@ -66,6 +67,10 @@ Installed:
 [Link 1](https://linuxhint.com/increase-virtualbox-disk-size/)
 
 [Link 2](https://gparted.org/display-doc.php%3Fname%3Dmoving-space-between-partitions)
+
+## Click to minimize
+
+[Link](https://itsfoss.com/click-to-minimize-ubuntu/)
 
 ## Terminal
 
