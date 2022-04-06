@@ -13,6 +13,7 @@
     - [auto-completion](#auto-completion)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
     - [add open script](#add-open-script)
+    - [add starship](#add-starship)
   - [Visual Studio Code](#visual-studio-code)
     - [Change Terminal color settings](#change-terminal-color-settings)
     - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -112,6 +113,10 @@ Open current directory in terminal by typing `open .`
 Add the following line:
 
 `alias open='xdg-open'`
+
+### add starship
+
+[Link](https://opensource.com/article/22/2/customize-prompt-starship)
 
 
 ## Visual Studio Code
