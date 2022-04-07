@@ -2,6 +2,7 @@
 
 - [Ubuntu setup](#ubuntu-setup)
   - [Tree tool](#tree-tool)
+  - [Gitk](#gitk)
   - [Ksnip: image annotation tool](#ksnip-image-annotation-tool)
   - [UMLet: drawing UML diagrams](#umlet-drawing-uml-diagrams)
   - [FFMPEG: video handling tool](#ffmpeg-video-handling-tool)
@@ -29,6 +30,14 @@
 
 ```
 sudo apt install tree
+```
+
+## Gitk
+
+[Tutorial](https://www.atlassian.com/git/tutorials/gitk)
+
+```
+sudo apt install gitk
 ```
 
 ## Ksnip: image annotation tool
