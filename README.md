@@ -4,6 +4,7 @@
   - [Tree tool](#tree-tool)
   - [Gitk](#gitk)
   - [Ksnip: image annotation tool](#ksnip-image-annotation-tool)
+  - [Redshift: color temperature tool](#redshift-color-temperature-tool)
   - [UMLet: drawing UML diagrams](#umlet-drawing-uml-diagrams)
   - [FFMPEG: video handling tool](#ffmpeg-video-handling-tool)
   - [Crackling sound fix](#crackling-sound-fix)
@@ -45,6 +46,10 @@ sudo apt install gitk
 ```
 sudo snap install ksnip
 ```
+
+## Redshift: color temperature tool
+
+[Link](https://linoxide.com/install-and-use-redshift-on-ubuntu-20-04/)
 
 ## UMLet: drawing UML diagrams
 
