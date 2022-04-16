@@ -189,7 +189,7 @@ Settings -> Open Keyboard Shortcuts (JSON)
     },
     {
         "key": "end",
-        "command": "-cursorEnd",
+        "command": "cursorEnd",
         "when": "textInputFocus"
     },
     {
