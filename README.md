@@ -25,6 +25,7 @@
   - [VScode](#vscode)
   - [Window manager](#window-manager)
 - [Terminal commands](#terminal-commands)
+- [Linux Keyboard Shortcuts](#linux-keyboard-shortcuts)
 - [Unix filesystem](#unix-filesystem)
 
 ## Tree tool
@@ -250,6 +251,16 @@ Shortcut | Action
 # Terminal commands
 
 ![linux-cheat-sheet.png](/linux-cheat-sheet.png)
+
+# Linux Keyboard Shortcuts
+
+[100 Keyboard Shortcuts](https://linuxhint.com/100_keyboard_shortcuts_linux/)
+
+```
+sudo apt-get install -y dconf-editor
+```
+
+[dconf](https://wiki.ubuntu.com/Keybindings)
 
 # Unix filesystem
 
