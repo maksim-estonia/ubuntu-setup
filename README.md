@@ -23,10 +23,10 @@
 - [Shortcuts](#shortcuts)
   - [Ubuntu](#ubuntu)
   - [VScode](#vscode)
-  - [Window manager](#window-manager)
 - [Terminal commands](#terminal-commands)
 - [Linux Keyboard Shortcuts](#linux-keyboard-shortcuts)
 - [Unix filesystem](#unix-filesystem)
+- [Git cheat sheet](#git-cheat-sheet)
 
 ## Tree tool
 
@@ -229,25 +229,6 @@ Shortcut | Action
 
 ![vscode-shortcuts.png](/vscode-shortcuts.png)
 
-## Window manager
-
-[quicktile](https://github.com/ssokolow/quicktile) ([commands](http://ssokolow.com/quicktile/commands.html))
-
-Setup: go to "Startup Applications", add a startup command `quicktile --daemonize`
-
-Shortcut | Action 
----------|----------
- `Ctrl`+`Alt`+`7` | Top-left
- `Ctrl`+`Alt`+`8` | Top
- `Ctrl`+`Alt`+`9` | Top-right
- `Ctrl`+`Alt`+`4` | Left
- `Ctrl`+`Alt`+`5` | Center
- `Ctrl`+`Alt`+`6` | Right
- `Ctrl`+`Alt`+`1` | Bottom-left
- `Ctrl`+`Alt`+`2` | Bottom
- `Ctrl`+`Alt`+`3` | Bottom-right
- `Ctrl`+`Alt`+`0` | Maximize
-
 # Terminal commands
 
 ![linux-cheat-sheet.png](/linux-cheat-sheet.png)
@@ -265,3 +246,7 @@ sudo apt-get install -y dconf-editor
 # Unix filesystem
 
 ![standard-unix-filesystem-hierarchy.png](/standard-unix-filesystem-hierarchy.png)
+
+# Git cheat sheet
+
+[Pdf](/git-cheat-sheet.pdf)
