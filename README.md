@@ -16,6 +16,7 @@
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
     - [add open script](#add-open-script)
     - [add starship](#add-starship)
+    - [add wintile](#add-wintile)
   - [Visual Studio Code](#visual-studio-code)
     - [Change Terminal color settings](#change-terminal-color-settings)
     - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -132,6 +133,10 @@ Add the following line:
 ### add starship
 
 [Link](https://opensource.com/article/22/2/customize-prompt-starship)
+
+### add wintile
+
+[Link](https://github.com/fmstrat/wintile)
 
 
 ## Visual Studio Code
