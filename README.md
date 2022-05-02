@@ -227,6 +227,11 @@ Shortcut | Action
  `Print Screen` | Take a screenshot of the desktop 
  `Alt`+`Print Screen` | Take a screenshot of a window
  `Shift`+`Print Screen` | Take a screenshot of an area you select 
+ `Super`+`Page Up` | Switch to workspace 1
+ `Super`+`Page Down` | Switch to workspace 2
+ `Super`+`0` | Hide window
+ `F2` | Rename file/folder
+ `Alt`+`F4` | Close window
 
  ![ubuntu-shortcuts.jpg](/ubuntu-shortcuts.jpg)
 
