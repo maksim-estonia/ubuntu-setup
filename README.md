@@ -239,6 +239,26 @@ Shortcut | Action
 
 ![vscode-shortcuts.png](/vscode-shortcuts.png)
 
+
+- 
+Basic editing | -
+---------|----------
+ `Alt`+`ArrUp`/`ArrDown` | Move line up/down 
+ `Ctrl`+`Enter` | Insert line below
+ `Ctrl`+`]`/`[` | **Indent/Outdent line**
+ `Ctrl`+`/` | Toggle line comment
+ `Ctrl`+`Shift`+`A` | **Toggle block comment**
+
+ Basic editing | -
+---------|----------
+ `Ctrl`+`Space` | Trigger suggestion
+
+  Basic editing | -
+---------|----------
+ `Ctrl`+`B` | **Toggle Sidebar visibility**
+
+
+
 # Terminal commands
 
 ![linux-cheat-sheet.png](/linux-cheat-sheet.png)
