@@ -13,6 +13,7 @@
   - [Click to minimize](#click-to-minimize)
   - [Terminal](#terminal)
     - [auto-completion](#auto-completion)
+    - [command history](#command-history)
     - [change to homebrew color scheme](#change-to-homebrew-color-scheme)
     - [add open script](#add-open-script)
     - [add starship](#add-starship)
@@ -100,6 +101,10 @@ bind "TAB:menu-complete"
 bind "set show-all-if-ambiguous on"
 bind "TAB:complete"; bind "set show-all-if-ambiguous off"
 ```
+
+### command history
+
+[Link](https://gist.github.com/petewarden/0c653bd41cb225ded69ed9af3a0c8c34)
 
 ### change to homebrew color scheme
 
