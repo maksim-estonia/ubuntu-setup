@@ -285,7 +285,9 @@ Shortcut | Actions
 `Shift`+`Print Screen` | Take a screenshot of an area you select 
 `Ctrl` + `Delete` | Close window
 `Ctrl` + `Insert` | Hide window
+`AltGr` + `F10` | Resize window to default
 `F2` | Rename file/folder
+
 
 [dconf](https://wiki.ubuntu.com/Keybindings)
 
