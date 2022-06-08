@@ -320,6 +320,10 @@ Shortcut | Action
 
 ![linux-cheat-sheet.png](/linux-cheat-sheet.png)
 
+Useful terminal commands:
+
+- Create multiple files: `touch example-{1..10}.md`
+
 ## Unix filesystem
 
 ![standard-unix-filesystem-hierarchy.png](/standard-unix-filesystem-hierarchy.png)
